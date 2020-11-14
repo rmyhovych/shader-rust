@@ -1,0 +1,10 @@
+[package]
+authors = ["rmyhovych <rmyhovych@gmail.com>"]
+edition = "2018"
+name = "shader-compile"
+version = "0.1.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+shaderc = "0.6.0"
